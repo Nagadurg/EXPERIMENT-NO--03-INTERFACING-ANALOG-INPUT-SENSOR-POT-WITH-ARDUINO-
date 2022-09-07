@@ -93,11 +93,11 @@ void loop()
 
 
 
-
+```
 
 **
 **Simulation output:** 
-**
+
 ![output](./ex2.png)
 
 
