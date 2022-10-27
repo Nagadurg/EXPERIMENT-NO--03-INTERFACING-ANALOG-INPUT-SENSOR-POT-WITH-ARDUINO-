@@ -100,13 +100,9 @@ void loop()
 
 ![output](./ex2.png)
 
+## Serial monitor
 
-
-
-
-
-
-
+![output](./2.1.png)
 
 
 **RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
